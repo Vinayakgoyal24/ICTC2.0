@@ -9,6 +9,10 @@ This project focuses on text classification and translation tasks using a datase
 
 The dataset consists of text samples written in six different languages using English alphabets. Each sample is labeled with its corresponding language. The languages included in the dataset are [list the languages here].
 
+
+
+![data](https://github.com/Vinayakgoyal24/ICTC2.0/assets/141870146/ae2dd2f3-7726-4661-9039-8d25f00a71c2)
+
 ## Approach
 
 ### Text Classification
