@@ -7,7 +7,7 @@ This project focuses on text classification and translation tasks using a datase
 
 ## Dataset
 
-The dataset consists of text samples written in six different languages using English alphabets. Each sample is labeled with its corresponding language. The languages included in the dataset are [list the languages here].
+Dataset consists of text samples written in six different languages using English alphabets. Each sample is labeled with its corresponding language. The languages included in the dataset are [list the languages here].
 
 
 
