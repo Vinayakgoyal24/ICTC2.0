@@ -37,7 +37,9 @@ For the translation task, we fine-tuned the Varta-T-5 model, a transformer-based
 
 We used Python along with popular machine learning libraries such as scikit-learn and TensorFlow/Keras for implementing the classification models. The ensemble approach was implemented by combining the predictions from each individual model.
 
-![Picture1](https://github.com/Vinayakgoyal24/ICTC2.0/assets/141870146/dfd62443-19a6-433a-89c9-b3d95e924a61)
+
+![classification](https://github.com/Vinayakgoyal24/ICTC2.0/assets/141870146/b9fbfef8-ea12-454b-a942-ee0549bd66f5)
+
 
 ### Text Translation
 
